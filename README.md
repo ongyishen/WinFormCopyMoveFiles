@@ -1,5 +1,5 @@
 # WinFormCopyMoveFiles
-C# Window Form Program to mass copy / move files from directory to directory
+C# Window Form Program to mass copy / move files from directory to directory (.net framework 4.5)
 
 ## Donation
 
